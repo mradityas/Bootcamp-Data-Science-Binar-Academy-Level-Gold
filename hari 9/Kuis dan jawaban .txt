@@ -1,0 +1,46 @@
+Untuk Quiz SQL kita menggukana platform hackerrank, karena dulu saya pernah ujian test masuk nya menggunakan hackerrank ^_^
+
+Berikut soalnya
+https://www.hackerrank.com/challenges/average-population-of-each-continent/problem?isFullScreen=true
+
+1.
+Tuliskan Query yang telah teman teman buat di hackerrank yang status nya sudah "Pass" atau "Benar" menurut  hackerrank 
+
+Jawaban :
+
+select COUNTRY.CONTINENT, floor(avg(CITY.POPULATION))
+from CITY
+inner join COUNTRY
+on CITY.COUNTRYCODE = COUNTRY.CODE
+GROUP BY COUNTRY.Continent
+
+2.
+Jelakankan logic query yang telah di buat
+
+Jawaban:
+
+mengambil data continent dari country dan mengambil data population dari city dengan pembulatan bawah.
+
+data dari tabel city 
+
+di inner joinkan dengan tabel country 
+
+dengan perbandingan yang sudah ditentukan CITY.COUNTRYCODE = COUNTRY.CODE
+
+dan setelah itu di groupby pada bagian continent
+
+3.
+Pengembangan dari soal sebelum nya, CONTINENT apa yang paling banyak dan paling sedikit populasi nya
+
+Jawaban:
+
+paling banyak asia dan yang paling sedikit ocenia
+
+4.
+Kondisonal : Tambahkan summary atau insight yang bisa di peroleh mungkin bisa dari kolom GNP, LifeExpectancy, Region, dsb
+
+Jawaban:
+
+populasi terbesar kepada asia karena memiliki jumlah negara yang besar. sedangkan ocenia memiliki populasi paling rendah karena memiliki jumlah negara yang sedikit. selain itu rata-rata gnp asia dan ocenia yang jauh lebih tinggi ocenia karena memiliki life expectancy yg tinggi dan hanya memiliki beberapa negara saja
+
+

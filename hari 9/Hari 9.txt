@@ -1,0 +1,4 @@
+Database Command dan SQL Lanjutan
+1. mempelajari macam-macam join  
+2. mempelajari bagaimana mengabungkan tabel menggunakan jupyter dengan memnghubungkan sqlite
+3. mempelajari memasukan data ke dalam tabel menggunakan jupyter dengan memnghubungkan sqlite
