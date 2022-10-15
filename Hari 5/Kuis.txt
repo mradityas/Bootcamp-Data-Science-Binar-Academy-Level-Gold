@@ -1,0 +1,11 @@
+Dear Teman teman untuk quiz yang ke tiga
+Tugas nya adalah buat Swagger UI dari Github ini
+https://github.com/PrettyPrinted/youtube_video_code/tree/master/2015/11/18/Creating%20a%20RESTFul%20API%20With%20Flask%20(4%20of%204)%20-%20DELETE%20Requests
+
+Setelah itu upload ke github teman teman
+
+ini merupakan github dari youtuber, terkait belajar API Flask, berikut link video nya
+https://www.youtube.com/playlist?list=PLXmMXHVSvS-AFMUmbBeIfL3PqTvgw8ygb
+
+Clue nya untuk mengerjakan Quiz nya teman teman mainin di .yml nya dan klo mau ceri contekan bisa googling atau di 
+https://swagger.io/docs/specification/describing-parameters/

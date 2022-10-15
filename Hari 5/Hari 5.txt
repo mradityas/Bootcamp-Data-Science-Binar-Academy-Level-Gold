@@ -1,0 +1,2 @@
+1. Mempelajari flask menggunakan visual studio code
+2. mempelajari swagger ui dengan visual studio code 
