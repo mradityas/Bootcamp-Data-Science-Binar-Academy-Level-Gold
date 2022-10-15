@@ -1,0 +1,7 @@
+Database Command dan SQL Lanjutan
+1. mempelajari membuat database memahami apa itu primary key,foreign key,not null, dan auto increment
+2. mempelajari cara membuat tabel dengan PK not null dan auto increment
+3. mempelajari cara menggabungkan 2 tabel atau lebih 
+
+
+untuk tugas akan digabungkan dengan hari 6, 7 dan 8
