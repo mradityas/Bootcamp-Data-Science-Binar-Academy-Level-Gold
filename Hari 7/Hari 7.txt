@@ -1,0 +1,10 @@
+Mempelajari database command dan sql
+1. mempelajari membuat database dan tabel
+2. mempelajari cara mengisi tabel 
+3. mempelajari menghapus isi dalam tabel
+4. mempelajari cara menghubungkan jupyter dengan sqlite
+5. mempelajari membuat database dan tabel dengan menggunakan jupyter yang dihubungkan dengan sqlite
+6. mempelajari cara mengisi tabel dengan menggunakan jupyter yang dihubungkan dengan sqlite
+
+
+untuk tugas akan digabungkan dengan hari 6, 7 dan 8
