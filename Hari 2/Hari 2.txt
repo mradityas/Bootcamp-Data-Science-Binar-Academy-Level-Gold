@@ -1,0 +1,2 @@
+1. mempelajari tentang Loops, Break, Continue, Pass
+2. Create, Write, Open (txt file)
